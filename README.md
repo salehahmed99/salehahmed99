@@ -6,7 +6,7 @@
 
 <p align='center'>
    I'm a passionate mobile app developer with a strong focus on Android development. With expertise in Kotlin, Jetpack Compose, and XML, I craft intuitive, efficient, and user-friendly applications. I strive to bring ideas to life through seamless and impactful mobile experiences. Collaboration, continuous learning, and problem-solving are at the heart of my journey as a developer. Learn more about me by viewing my 
-  <a href="https://drive.google.com/file/d/1kn74wUKL5tB48thtVgYx2fn5YeBJJBG9/view">resume</a>.
+  <a href="https://drive.google.com/drive/folders/1UgCDKCRCv2q2kt1WtcXyH69OnvWwfei0?usp=sharing">resume</a>.
 </p>
 
 <div align='center'>
