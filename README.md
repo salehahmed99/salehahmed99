@@ -15,7 +15,7 @@ databases like PostgreSQL, and delivering user-centric solutions. Learn more abo
 <div align='center'>
   <h2> 👨‍💻 Programming Languages & Platforms 👩‍💻 </h2>
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,c,cpp,cs,py,html,css,js,postman,postgres,figma,flutter,dart,firebase,git,linux,arduino" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,c,cpp,cs,py,html,css,js,postman,postgres,nodejs,express,figma,flutter,dart,firebase,git,github,linux,arduino" />
   </a>
 </div>
 
