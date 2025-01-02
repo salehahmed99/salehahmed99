@@ -21,7 +21,7 @@ databases like PostgreSQL, and delivering user-centric solutions. Learn more abo
 
 <div align='center'>
   <h2> 💬 Get in touch 💬 </h2>
-  <a href="https://x.com/__salehahmed_">
+  <a href="https://x.com/salehahmed_99">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://www.linkedin.com/in/salehahmed99/">
