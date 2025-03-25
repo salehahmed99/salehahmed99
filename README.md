@@ -5,10 +5,7 @@
 </div>
 
 <p align='center'>
-   I'm a passionate Computer Engineering Student @ Cairo University. Proficient in C++, Java, Kotlin, and JavaScript, with a strong foundation in Object-Oriented Programming and design 
-patterns. Experienced in building full-stack native Android applications, leveraging Kotlin and XML for frontend 
-development and Node.js with Express.js for backend services. Skilled in implementing secure REST APIs, integrating 
-databases like PostgreSQL, and delivering user-centric solutions. Learn more about me by viewing my 
+   I'm a passionate Computer Engineering Student @ Cairo University. Proficient in C++, JavaScript and Kotlin, with a strong foundation in Object-Oriented Programming and software design patterns. Experienced in building native Android apps using Kotlin and XML, and currently focused on cross-platform mobile development using React Native. Learn more about me by viewing my 
   <a href="https://drive.google.com/drive/folders/1UgCDKCRCv2q2kt1WtcXyH69OnvWwfei0?usp=sharing">resume</a>.
 </p>
 
