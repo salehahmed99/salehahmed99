@@ -31,7 +31,7 @@
 <br>
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=salehahmed99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-    <img src="https://streak-stats.demolab.com/?user=salehahmed99&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3%22%20height=%22150%22%20alt=%22streak%20graph%22"  />
+    <img src="https://streak-stats.demolab.com/?user=salehahmed99&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=salehahmed99&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 </div>
