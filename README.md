@@ -31,7 +31,7 @@
 <br>
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=salehahmed99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salehahmed99&theme=tokyonight&show_icons=true&locale=en&layout=compact" height="150" alt="saleh-ahmed"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salehahmed99&theme=tokyonight&show_icons=true&locale=en&layout=compact&disable_animations=false&hide_border=true&order=1" height="150" alt="saleh-ahmed"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=salehahmed99&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 </div>
