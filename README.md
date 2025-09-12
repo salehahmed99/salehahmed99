@@ -6,7 +6,7 @@
 
 <p align='center'>
    
-I am a Computer Engineering student at Cairo University with expertise in C++, JavaScript, and Kotlin. I have a strong passion for problem-solving and algorithmic design with a focus on developing efficient software solutions.
+I am a Computer Engineering student at Cairo University with expertise in C++, JavaScript, and Kotlin. I have a strong passion for problem-solving and algorithmic design with a focus on developing efficient software solutions. Learn more about me by viewing my 
   <a href="https://drive.google.com/drive/folders/1UgCDKCRCv2q2kt1WtcXyH69OnvWwfei0?usp=sharing">resume</a>.
 </p>
 
