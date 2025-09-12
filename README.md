@@ -5,14 +5,15 @@
 </div>
 
 <p align='center'>
-   I'm a passionate Computer Engineering Student @ Cairo University. Proficient in C++, JavaScript and Kotlin, with a strong foundation in Object-Oriented Programming and software design patterns. Experienced in building native Android apps using Kotlin and XML, and currently focused on cross-platform mobile development using React Native. Learn more about me by viewing my 
+   
+I am a Computer Engineering student at Cairo University with expertise in C++, JavaScript, and Kotlin. I have a strong passion for problem-solving and algorithmic design with a focus on developing efficient software solutions.
   <a href="https://drive.google.com/drive/folders/1UgCDKCRCv2q2kt1WtcXyH69OnvWwfei0?usp=sharing">resume</a>.
 </p>
 
 <div align='center'>
   <h2> 👨‍💻 Programming Languages & Platforms 👩‍💻  </h2>
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,c,cpp,cs,py,html,css,js,react,postman,postgres,nodejs,express,figma,flutter,dart,firebase,git,github,linux,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,electron,redux,materialui,tailwind,jest,c,cpp,cs,java,py,postman,nodejs,express,postgres,sqlite,mongodb,mysql,androidstudio,java,firebase,supabase,git,github,linux" />
   </a>
 </div>
 
