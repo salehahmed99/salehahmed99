@@ -13,7 +13,7 @@ I am a Computer Engineering student at Cairo University with expertise in C++, J
 <div align='center'>
   <h2> 👨‍💻 Programming Languages & Platforms 👩‍💻  </h2>
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,electron,redux,materialui,tailwind,jest,c,cpp,cs,java,py,postman,nodejs,express,postgres,sqlite,mongodb,mysql,androidstudio,java,firebase,supabase,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,electron,redux,materialui,tailwind,jest,c,cpp,cs,java,py,postman,nodejs,express,postgres,sqlite,mongodb,mysql,androidstudio,firebase,supabase,git,github,linux,docker" />
   </a>
 </div>
 
